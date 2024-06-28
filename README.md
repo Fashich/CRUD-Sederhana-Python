@@ -1,2 +1,2 @@
 # CRUD-Sederhana-Python
-CRUD Sederhana menggunakan Bahasa Python
+CRUD Sederhana menggunakan Pemrograman Bahasa Python
